@@ -1,32 +1,45 @@
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="banner" width="80%" style="border-radius: 15px;"/>
+  <img src="https://i.imgur.com/I5T0Zin.jpeg" alt="hoangkim-banner" style="border-radius: 15px;">
 
-<h1 align="center">✨ Hi, I'm Hoàng Kim ✨</h1>
+  <div align="center">
+    <h1><pre>Hi, I'm Hoang Kim</pre></h1>
+  </div>
 
-> Though I am ordinary among many.  
-> I am still the one and only in this world!
+  Though I am ordinary among many.<br>
+  I am still the one and only in this world!<br><br>
 
----
+  <!-- Profile section -->
+  <div style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 250px; background: #111; color: #fff;">
+    <h3>👤 Profile</h3>
+    <p><b>Name:</b> Hoàng Kim</p>
+    <p><b>Username:</b> @wushoangkim</p>
+    <p><b>Birthday:</b> 08/11/2007</p>
+  </div>
 
-### 👤 Profile
-| | |
-|:--|:--|
-| **Name** | Hoàng Kim |
-| **Username** | [@wushoangkim](https://github.com/wushoangkim) |
-| **Birthday** | 08/11/2007 |
-| **Website** | 🌐 [kimxxx.org](https://kimxxx.org/) |
+  <br>
 
----
+  ### My Stack
 
-### 💻 My Stack
+  #### Languages
 
-#### 🧠 Languages
-![languages](https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,typescript&perline=6)
+  ![languages](https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,typescript&perline=6)
 
-#### ⚙️ Tools
-![tools](https://skillicons.dev/icons?i=github,vscode,linux,androidstudio,git,cloudflare,visualstudio&perline=6&theme=dark)
+  #### Tools
 
+  ![tools](https://skillicons.dev/icons?i=github,vscode,linux,androidstudio,git,cloudflare,visualstudio&perline=6&theme=dark)
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushoangkim&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wushoangkim">
+  </p>
+
+  ### You can checkout my website
+
+  https://kimxxx.org/
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwushoangkim&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+</div>
 ---
 
 ### 📊 GitHub Stats
