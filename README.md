@@ -1,29 +1,38 @@
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
-<div align="center">
-  <h1><pre>Hi, I'm Hoang Kim</pre></h1>
-</div>
+  <img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
 
-Though I am ordinary among many.
+  <div align="center">
+    <h1><pre>Hi, I'm Hoang Kim</pre></h1>
+  </div>
 
-I am still the one and only in this world!
+  Though I am ordinary among many.<br>
+  I am still the one and only in this world!<br><br>
 
-### My Stack
+  <!-- Profile section -->
+  <div style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 250px; background: #111; color: #fff;">
+    <h3>👤 Profile</h3>
+    <p><b>Name:</b> Luckkystop</p>
+    <p><b>Username:</b> @datvuluckkystop</p>
+    <p><b>Birthday:</b> 11/1/2010</p>
+  </div>
 
-#### Tools
+  <br>
 
-![tools](https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark)
+  ### My Stack
 
+  #### Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusThanhDieu&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wusthanhdieu">
-</p>
+  ![tools](https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark)
 
-### You can checkout my website
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusThanhDieu&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wusthanhdieu">
+  </p>
 
-https://kimxxx.org/
+  ### You can checkout my website
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  https://kimxxx.org/
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
 </div>
