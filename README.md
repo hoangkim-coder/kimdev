@@ -1,8 +1,10 @@
 
 
 <p align="center">
-  <img src="[[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=3AD1C9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anh+Khoi!;AI+Engineer+in+the+making.;Welcome+to+my+coding+universe!+%F0%9F%9A%80" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hoang+Kim+)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hoang+Kim+" alt="Typing SVG")" />
-</p>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=3AD1C9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hoang+Kim!;AI+Engineer+in+the+making.;Welcome+to+my+coding+universe!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=140&section=header&text=Welcome%20to%20Khoi's%20World!&fontSize=30&fontAlign=50&fontColor=ffffff" />
