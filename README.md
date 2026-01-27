@@ -88,8 +88,8 @@
   <a href="mailto:kimhohoang48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kimhohoang48@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/khoi-bui-nhat-anh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khoi%20Bui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://kimxpolit.tech">
+    <img src="https://img.shields.io/badge/LinkedIn-Hoa20Kim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
